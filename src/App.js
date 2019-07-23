@@ -17,7 +17,7 @@ class App extends Component {
         <Cell col={4}>
           <Link to="/"><img src={logo} className="logo-img" alt="logo" /></Link>
         </Cell>
-        <Cell col={4}><div className="main-title"><h3>Natural Beauty Salon</h3></div></Cell>
+        <Cell col={4}><div className="main-title"><h3>Natural Beauty Salon</h3><h6>A beautiful, sun kissed tan is promised every day.</h6></div></Cell>
       </Grid>
         <Layout>
             <Header className="header-color" scroll>
