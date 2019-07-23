@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/salon/static/css/main.80ceaef8.chunk.css",
+    "main.js": "/salon/static/js/main.b8ae21b0.chunk.js",
+    "main.js.map": "/salon/static/js/main.b8ae21b0.chunk.js.map",
+    "runtime~main.js": "/salon/static/js/runtime~main.4f044513.js",
+    "runtime~main.js.map": "/salon/static/js/runtime~main.4f044513.js.map",
+    "static/css/2.606264ab.chunk.css": "/salon/static/css/2.606264ab.chunk.css",
+    "static/js/2.f4044c6b.chunk.js": "/salon/static/js/2.f4044c6b.chunk.js",
+    "static/js/2.f4044c6b.chunk.js.map": "/salon/static/js/2.f4044c6b.chunk.js.map",
+    "index.html": "/salon/index.html",
+    "precache-manifest.c6287974ca589ff82000b3c870c7d7ff.js": "/salon/precache-manifest.c6287974ca589ff82000b3c870c7d7ff.js",
+    "service-worker.js": "/salon/service-worker.js",
+    "static/css/2.606264ab.chunk.css.map": "/salon/static/css/2.606264ab.chunk.css.map",
+    "static/css/main.80ceaef8.chunk.css.map": "/salon/static/css/main.80ceaef8.chunk.css.map",
+    "static/media/logo8.jpg": "/salon/static/media/logo8.bef1f324.jpg"
+  }
+}
